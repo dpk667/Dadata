@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dadata:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dadata_jar</output-path>
+    <root id="archive" name="Dadata.jar">
+      <element id="module-output" name="Dadata" />
+    </root>
+  </artifact>
+</component>
